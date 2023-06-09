@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a current junior at Brown University studying computer science! I'm love developing cool appliations to make people's lives easier! I am also really interested in AI/ML applications in healthcare and biotech settings. Thanks for stopping by!
+
 <!--
 **syu0916/syu0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
